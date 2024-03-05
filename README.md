@@ -43,14 +43,14 @@ The boundaries of these BRMAs have not changed.
 
 There are [8 BRMAs](images/ni-brmas-Feb2024.jpg) in Northern Ireland, defined by postcode.
 
-Belfast BRMA: BT1-BT16
-Lough Neagh Upper BRMA: BT29, BT36-BT46, BT80
-Lough Neagh Lower BRMA: BT25, BT62-BT67, BT69-BT71
-North BRMA: BT51-BT57
-North West BRMA: BT47, BT48, BT49, BT82
-South BRMA: BT32, BT34, BT35, BT60, BT61, BT68
-South East BRMA: BT17-BT24, BT26, BT27, BT28, BT30, BT31, BT33
-South West BRMA: BT74-BT79, BT81, BT92, BT93, BT94
+- Belfast BRMA: BT1-BT16
+- Lough Neagh Upper BRMA: BT29, BT36-BT46, BT80
+- Lough Neagh Lower BRMA: BT25, BT62-BT67, BT69-BT71
+- North BRMA: BT51-BT57
+- North West BRMA: BT47, BT48, BT49, BT82
+- South BRMA: BT32, BT34, BT35, BT60, BT61, BT68
+- South East BRMA: BT17-BT24, BT26, BT27, BT28, BT30, BT31, BT33
+- South West BRMA: BT74-BT79, BT81, BT92, BT93, BT94
 
 The BRMA classification currently in use was defined following the introduction of LHA in 2008 and there has been no change.
 
